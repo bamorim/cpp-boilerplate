@@ -1,7 +1,6 @@
 #include<fib.hpp>
 #include<stdexcept>
 
-// Returns zero on overflow
 uint64_t Fib::fib(uint32_t n){
   uint64_t previous = 0;
   uint64_t current = 1;
