@@ -1,0 +1,3 @@
+#!/bin/sh
+make bin/test
+bin/test $@
