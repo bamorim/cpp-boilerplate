@@ -1,3 +1,3 @@
-# README
+# Cpp Boilerplate with Catch && Cxxopts
 
-Edit this!
+This is my boilerplate for C++ projects using Catch for testing and Cxxopts for option parsing.
